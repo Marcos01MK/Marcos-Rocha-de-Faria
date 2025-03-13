@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { View, Text, Image, ScrollView } from 'react-native';
 
-//Não me lembro se nas aulas a gente colou o "ScrollView, mas coloquei apra melhorar a experiencia"
+//Não me lembro se nas aulas a gente colocou o "ScrollView", mas o coloquei para melhorar a experiencia
 class App extends Component {
   render() {
     return(
